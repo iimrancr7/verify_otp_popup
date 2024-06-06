@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Chivo", sans-serif;
+}
+.otptitle{
+    margin-bottom: 42px;
+}
+.para{
+    margin-bottom: 20px;
+}
+.otp{
+    margin-bottom: 30px;
+}
+.otp_button{
+    margin-bottom: 16px;
+}
+body{
+    background:#242842;
+}
+main{
+    width: 685px;
+    height: 473px;
+    background: #FFFFFF;
+    margin: 75px auto;
+    border-radius: 20px;
+}
+
+form{
+    padding-top: 75px;
+    text-align: center;
+}
+.main_wrapper{
+    padding-left: 113px;
+    padding-right: 113px;
+}
+h1{
+    margin-bottom: 16px;
+}
+
+.time{
+    color: #9747FF;
+    margin-right: 20px;
+}
+.otptime{
+    background: #9747FF;
+    border-radius: 10px;
+    padding: 2px 8px;
+    color: #FFFFFF;
+    height: 34px;
+}
+p{
+    font-size: 14px;
+    
+}
+.tfield{
+    /* width: 14.587%; */
+    width: 64.33px;
+    padding: 12px 20px;
+    text-align: center;
+    border-radius: 4px;
+}
+.button{
+    width: 459px;
+    padding: 12px 20px;
+    background: #4A3DE5;
+    color: #FFFFFF;
+    border: .5px solid #1b1288;
+    border-radius: 4px;
+}
+label{
+    font-size: 24px;
+}
+a{
+    text-decoration: none;
+}
+.potp{
+    text-align: left;
+    padding-left: 24px;
+}
+input{
+    margin-bottom: 20px;
+}
